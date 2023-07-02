@@ -2,7 +2,7 @@ export const notifications = [
   {
     id: 0,
     read: false,
-    avatar: "/src/assets/images/avatar-mark-webber.webp",
+    avatar: "/react-notifications-page/assets/images/avatar-mark-webber.webp",
     name: "Mark Webber",
     action: "reacted to your recent post",
     hover: "My first tournament today!",
@@ -12,7 +12,7 @@ export const notifications = [
   {
     id: 1,
     read: false,
-    avatar: "/src/assets/images/avatar-angela-gray.webp",
+    avatar: "/react-notifications-page/assets/images/avatar-angela-gray.webp",
     name: "Angela Gray",
     action: "followed you",
     time: "5m ago",
@@ -21,7 +21,7 @@ export const notifications = [
   {
     id: 2,
     read: false,
-    avatar: "/src/assets/images/avatar-jacob-thompson.webp",
+    avatar: "/react-notifications-page/assets/images/avatar-jacob-thompson.webp",
     name: "Jacob Thompson",
     action: "has joined your group",
     hover: "Chess Club",
@@ -31,7 +31,7 @@ export const notifications = [
   {
     id: 3,
     read: true,
-    avatar: "/src/assets/images/avatar-rizky-hasanuddin.webp",
+    avatar: "/react-notifications-page/assets/images/avatar-rizky-hasanuddin.webp",
     name: "Rizky Hasanuddin",
     action: "sent you a private message",
     time: "5 days ago",
@@ -42,8 +42,8 @@ export const notifications = [
   {
     id: 4,
     read: true,
-    avatar: "/src/assets/images/avatar-kimberly-smith.webp",
-    picture: "/src/assets/images/image-chess.webp",
+    avatar: "/react-notifications-page/assets/images/avatar-kimberly-smith.webp",
+    picture: "/react-notifications-page/assets/images/image-chess.webp",
     name: "Kimberly Smith",
     action: " commented on your picture",
     time: "1 week ago",
@@ -52,7 +52,7 @@ export const notifications = [
   {
     id: 5,
     read: true,
-    avatar: "/src/assets/images/avatar-nathan-peterson.webp",
+    avatar: "/react-notifications-page/assets/images/avatar-nathan-peterson.webp",
     name: "Nathan Peterson",
     action: "reacted to your recent post",
     hover: "5 end-game strategies to increase your win rate",
@@ -62,7 +62,7 @@ export const notifications = [
   {
     id: 6,
     read: true,
-    avatar: "/src/assets/images/avatar-anna-kim.webp",
+    avatar: "/react-notifications-page/assets/images/avatar-anna-kim.webp",
     name: "Anna Kim",
     action: "left the group",
     hover: "Chess Club",
