@@ -1,0 +1,21 @@
+.attribution {
+    margin: 25px 0;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.attribution p {
+    color: var(--Grayish-blue);
+}
+
+.attribution a {
+    color: var(--Dark-grayish-blue);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.attribution a:hover {
+    color: var(--Blue);
+    cursor: pointer;
+    text-decoration: underline;
+}
